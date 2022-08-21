@@ -1,0 +1,15 @@
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.AssemblyReference.cache
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.AssemblyInfoInputs.cache
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.AssemblyInfo.cs
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\study\c# .net\projects\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.exe
+F:\study\c# .net\projects\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.deps.json
+F:\study\c# .net\projects\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.runtimeconfig.json
+F:\study\c# .net\projects\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.dll
+F:\study\c# .net\projects\ConsoleApp1\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.dll
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\refint\ConsoleApp1.dll
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.pdb
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ConsoleApp1.genruntimeconfig.cache
+F:\study\c# .net\projects\ConsoleApp1\obj\Debug\net6.0-windows\ref\ConsoleApp1.dll
